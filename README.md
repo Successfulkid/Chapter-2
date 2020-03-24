@@ -35,11 +35,10 @@
       <ul>
         <li><a href="#before-a-hurricane">How it spreads</a></li>
         <li><a href="#during-a-hurricane">How to protect yourself</a></li>
-        <li><a href="#after-a-hurricane">After a Hurricane</a></li>
       </ul>
       <p>Hello everyone and thank you for joing my Blog. I know that it has been a while since I have put up my last blog but here I am. Today we will be talking about the Coronavirus disease.</p>
       <img src="https://d3nuqriibqh3vw.cloudfront.net/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg?iFJ36W0T_gU2dfelG0z_E2oaOm_7Gnmv" alt="A pic of Hurrican Dorian">
-           <h3><span class="dorian">About Hurricane Dorian</span></h3>
+           <h3><span class="dorian">About Coronavirus</span></h3>
     <p> Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
 The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell.
     <h3 id="before-a-hurricane"><span class="dorian">How it spreads</span></h3>
