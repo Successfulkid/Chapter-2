@@ -37,8 +37,8 @@
         <li><a href="#during-a-hurricane">During a Hurricane</a></li>
         <li><a href="#after-a-hurricane">After a Hurricane</a></li>
       </ul>
-      <p>Hello everyone and thank you for joing my Blog. I know that it has been a while since I have put up my last blog but here I am. Today we will be talking about Hurricane Dorian.</p>
-      <img src="https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2019/9/1/a21730339f1e47f0a05132f001625d32_18.jpg" alt="A pic of Hurrican Dorian">
+      <p>Hello everyone and thank you for joing my Blog. I know that it has been a while since I have put up my last blog but here I am. Today we will be talking about the Coronavirus disease.</p>
+      <img src="https://coronavirus.jhu.edu/map.html" alt="A pic of Hurrican Dorian">
            <h3><span class="dorian">About Hurricane Dorian</span></h3>
     <p> Hurricane Dorian is a major hurricane that everyone is talking about because Hurricane Michael made landfall on the Florida Panhandle in October 2018. Michael became the first Category 5 hurricane to strike the state since Hurricane Andrew. And Everybody thought that Hurrican Dorrian was going to hit us. Well, it  will but not as bad as we thought it would in the first place. "By Monday, Hurricane Dorian will turn northwest toward the central Florida Atlantic waters. As Dorian slowly begins to make its closest point of approach to east central Florida, it is then forecast to turn toward the north-northwest and move parallel to the coast. The exact track forecast remains uncertain, and east central Florida remains under the threat of direct impacts from Dorian, especially along the coast."(Stated in Public Alerts)
     <h3 id="before-a-hurricane"><span class="dorian">Before a Hurricane</span></h3>
