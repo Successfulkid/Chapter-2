@@ -56,6 +56,6 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
       <ul>
         <li>Touch your eyes, nose, or mouth if your hands are not clean</li>
       </ul>
-      <p> For more infomation you can go to https://google.org/crisisresponse/covid19-map </p>
+      <a href="https://google.org/crisisresponse/covid19-map">To see how many people are affected aroung the world click here.</a>
     </body>
     </html>   
