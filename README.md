@@ -32,6 +32,7 @@
       </style>
       </head>
     <body>
+      <h6>Created by Dandre Jackson</h6>
       <h1>Covid-19</h1>
       <h6>Posted on 3/24/2020 @ 3:39 PM</h6>
       <h3>Content</h3>
