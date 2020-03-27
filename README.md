@@ -38,6 +38,29 @@
       </ul>
       <p>Hello everyone and thank you for joing my Blog. I know that it has been a while since I have put up my last blog but here I am. Today we will be talking about the Coronavirus disease.</p>
       <img src="https://d3nuqriibqh3vw.cloudfront.net/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg?iFJ36W0T_gU2dfelG0z_E2oaOm_7Gnmv" alt="A pic of Hurrican Dorian">
+      <p>This is a graph showing  how many people are infected around the world, in the USA, and in Florida</p>
+      <table style="width:100%">
+  <tr>
+    <th>World wide</th>
+    <th>USA</th> 
+    <th>Florida</th>
+  </tr>
+  <tr>
+    <td>Confirmed: 549,474</td>
+    <td>Deaths: 24,883</td>
+    <td>Recovered: 128,701</td>
+  </tr>
+  <tr>
+    <td>Confirmed: 86,043</td>
+    <td>Deaths: 1,304</td>
+    <td>Recovered: 753</td>
+  </tr>
+  <tr>
+    <td>Confirmed: 2,484</td>
+    <td>Deaths: 29</td>
+    <td>Recovered: 0</td>
+  </tr>
+</table>
            <h3><span class="dorian">About Coronavirus</span></h3>
     <p> Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
 The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell.
