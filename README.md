@@ -15,7 +15,7 @@
             font-family:Josefin Slabs;
             font-weight:6;
             font-size:19px;
-            color:rgb(193, 235, 217);
+            color:rgb(0, 0, 0);
         }
         a:hover{
              background-color:rgb(0, 245, 245);
