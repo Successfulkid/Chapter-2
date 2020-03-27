@@ -26,7 +26,7 @@
         a:focus{
              background-color:rgb(0, 245, 245);
         }
-        #table{
+        .table{
              backgroung-color:rgb(39, 62, 102);
         }
       </style>
