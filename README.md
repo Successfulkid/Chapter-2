@@ -60,8 +60,8 @@
     <td>Recovered: 2,387</td>
   </tr>
   <tr>
-    <td>Confirmed: 3,198</td>
-    <td>Deaths: 46</td>
+    <td>Confirmed: 3,763</td>
+    <td>Deaths: 54</td>
     <td>Recovered: 0</td>
   </tr>
 </table>
