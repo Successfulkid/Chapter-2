@@ -7,6 +7,9 @@
             color:rgb(0, 245, 245);
             font-style:Josefin Sans;
         }
+        figure{
+            text-align:center;
+        }
          body{
             background-color:rgb(39, 62, 102);
         }
@@ -41,6 +44,9 @@
       </ul>
       <p>Hello everyone and thank you for joining my webpage. I know that it has been a while since I have put up my last webpage but here I am. Today we will be talking about the Coronavirus disease.</p>
       <img src="https://d3nuqriibqh3vw.cloudfront.net/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg?iFJ36W0T_gU2dfelG0z_E2oaOm_7Gnmv" alt="A pic of Hurrican Dorian">
+      <figure>
+      <figcaption>Picture of the Coronavirus disease (COVID-19). </figcaption>
+      </figure>    
       <p>This is a graph showing  how many people are infected around the world, in the USA, and Florida</p>
       <table style="width:100%">
   <tr>
