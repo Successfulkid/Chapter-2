@@ -105,4 +105,4 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
      <p>Add comments below</p>
       <textarea rows="6" cols="50" maxlength="300"></textarea>
       <input type="submit" name="submitform" value="Submit" />
-      </fieldset>    
+        
