@@ -85,7 +85,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
       </ul>
       <a href="https://google.org/crisisresponse/covid19-map">To see how many people are affected around the world click here.</a>
       
-      <form action ="thankyou.html" method=post"
+      <form action ="thankyou.html" method=post">
             <label for ="firstname">First Name</Label>
             <input type="text" name="firstname" id="firstname"/> <br />
             <label for ="lastname">Last Name</Label>
