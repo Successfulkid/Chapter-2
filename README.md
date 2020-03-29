@@ -1,4 +1,3 @@
-<!DOCTYPE html>
   <html>
     <head>
       <meta charset="utf-8">
@@ -94,6 +93,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
             <label for ="email">Email Address</Label>
             <input type="text" name="email" id="email"/> <br />
        </fieldset> 
+       <fieldset>
             <legend>Questions and comment about the website</legend>
             <p>How did you find out about this website<p/>
             <select name="found" id="found">
@@ -105,4 +105,4 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
      <p>Add comments below</p>
       <textarea rows="6" cols="50" maxlength="300"></textarea>
       <input type="submit" name="submitform" value="Submit" />
- 
+      </fieldset>    
