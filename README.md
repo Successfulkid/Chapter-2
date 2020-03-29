@@ -86,12 +86,17 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
       <a href="https://google.org/crisisresponse/covid19-map">To see how many people are affected around the world click here.</a><br />
       
       <form method=post"><br />
+        <fieldset>
+            <legend>Personal</legend>
             <label for="firstname">First Name</Label>
             <input type="text" name="firstname" id="firstname"/> <br />
             <label for ="lastname">Last Name</Label>
             <input type="text" name="lastname" id="lastname"/> <br />
             <label for ="email">Email Address</Label>
             <input type="text" name="email" id="email"/> <br />
+       </fieldset>
+       <fieldset> 
+            <legend>Questions</legend>
             <p>How did you get this website<p/>
             <select name="found" id="found">
               <option value="Choose">Choose...</option>
@@ -99,6 +104,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
               <option value="Web">Web</option>
               <option value="Other">Other</option>
             </select>
+       </fieldset>
      <p>Add comments below</p>
       <textarea rows="6" cols="50" maxlength="300"></textarea>
       <input type="submit" name="submitform" value="Submit" />
