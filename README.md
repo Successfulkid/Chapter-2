@@ -50,18 +50,18 @@
   </tr>
   <tr>
     <td>Confirmed: 678,857</td>
-    <td>Deaths: 31,776</td>
-    <td>Recovered: 141,916</td>
-  </tr>
-  <tr>
-    <td>Confirmed: 124,697</td>
-    <td>Deaths: 2,227</td>
-    <td>Recovered: 3,231</td>
-  </tr>
-  <tr>
+    <td>Confirmed: 12,697</td>
     <td>Confirmed: 4,246</td>
-    <td>Deaths: 56</td>
-    <td>Recovered: 0</td>
+  </tr>
+  <tr>
+    <td>Deaths: 31,776</td>
+    <td>Deaths: 2,227</td>
+    <td>Death: 56</td>
+  </tr>
+  <tr>
+    <td>Recovered: 141,916</td>
+    <td>Recovered: 3,231</td>
+    <td>Recovered:  0</td>
   </tr>
 </table>
            <h3><span class="dorian">About Coronavirus</span></h3>
