@@ -84,8 +84,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
         <li>Touch your eyes, nose, or mouth if your hands are not clean</li>
       </ul>
       <a href="https://google.org/crisisresponse/covid19-map">To see how many people are affected around the world click here.</a><br />
-      
-      <form method=post"><br />
+      <br />
         <fieldset>
             <legend>Personal</legend>
             <label for="firstname">First Name</Label>
@@ -105,11 +104,8 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
               <option value="Other">Other</option>
             </select>
        </fieldset>
-      
      <p>Add comments below</p>
       <textarea rows="6" cols="50" maxlength="300"></textarea>
       <input type="submit" name="submitform" value="Submit" />
-     </form>
-              
     </body>
     </html>   
