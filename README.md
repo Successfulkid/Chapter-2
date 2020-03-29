@@ -97,7 +97,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
        </fieldset>
        <fieldset> 
             <legend>Questions</legend>
-            <p>How did you get this website<p/>
+            <p>How did you find out about this website<p/>
             <select name="found" id="found">
               <option value="Choose">Choose...</option>
               <option value="Facebook">Facebook</option>
