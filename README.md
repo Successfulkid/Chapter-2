@@ -41,7 +41,7 @@
       </ul>
       <p>Hello everyone and thank you for joining my Blog. I know that it has been a while since I have put up my last blog but here I am. Today we will be talking about the Coronavirus disease.</p>
       <img src="https://d3nuqriibqh3vw.cloudfront.net/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg?iFJ36W0T_gU2dfelG0z_E2oaOm_7Gnmv" alt="A pic of Hurrican Dorian">
-      <p>This is a graph showing  how many people are infected around the world, in the USA, and in Florida</p>
+      <p>This is a graph showing  how many people are infected around the world, in the USA, and Florida</p>
       <table style="width:100%">
   <tr>
     <th>World wide</th>
@@ -66,7 +66,7 @@
 </table>
            <h3><span class="dorian">About Coronavirus</span></h3>
     <p> Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
-The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell.
+The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with unwell people.
     <h3 id="before-a-hurricane"><span class="dorian">How it spreads</span></h3>
    <P>Coronavirus disease spreads primarily through contact with an infected person when they cough or sneeze. It also spreads when a person touches a surface or object that has the virus on it, then touches their eyes, nose, or mouth.</>
       <h3 id="during-a-hurricane"><span class="dorian">How to protect yourself</span></h3>
@@ -74,7 +74,7 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
       <ul>
         <li>Wash your hands regularly for 20 seconds, with soap and water or alcohol-based hand rub</li>
         <li>Cover your nose and mouth with a disposable tissue or flexed elbow when you cough or sneeze</li>
-        <li>Avoid close contact (1 meter or 3 feet) with people who are unwell</li>
+        <li>Avoid close contact (1 meter or 3 feet) with unwell people</li>
         <li>Stay home and self-isolate from others in the household if you feel unwell</li>
       </ul>
 
