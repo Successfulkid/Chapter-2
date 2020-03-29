@@ -105,10 +105,12 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
               <option value="Other">Other</option>
             </select>
        </fieldset>
+       <fieldset>
+       <legend>Questions or Comment about the website</legend>
      <p>Add comments below</p>
       <textarea rows="6" cols="50" maxlength="300"></textarea>
       <input type="submit" name="submitform" value="Submit" />
      </form>
-              
+     </fieldset>         
     </body>
     </html>   
