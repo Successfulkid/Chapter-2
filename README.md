@@ -65,7 +65,7 @@
     <td>Death: 63</td>
   </tr>
   <tr>
-    <td>Recovered: 152,871d>
+    <td>Recovered: 152,871d</td>
     <td>Recovered: 4,865</td>
     <td>Recovered: 0</td>
   </tr>
