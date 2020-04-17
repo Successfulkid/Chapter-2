@@ -55,19 +55,19 @@
     <th>Florida</th>
   </tr>
   <tr>
-    <td>Confirmed: 1,767,855</td>
-    <td>Confirmed: 529,768</td>
-    <td>Confirmed: 18,986</td>
+    <td>Confirmed: 2,165,500</td>
+    <td>Confirmed: 676,676</td>
+    <td>Confirmed: 22,897</td>
   </tr>
   <tr>
-    <td>Deaths: 83,424</td>
-    <td>Deaths: 108,281/td>
-    <td>Death: 458</td>
+    <td>Deaths: 145,705</td>
+    <td>Deaths: 34,784</td>
+    <td>Death: 633</td>
   </tr>
   <tr>
-    <td>Recovered: 308,146</td>
-    <td>Recovered: 401,873</td>
-    <td>Recovered: 0</td>
+    <td>Recovered: 550,453</td>
+    <td>Recovered: 56,127</td>
+    <td>Recovered: - </td>
   </tr>
 </table>
            <h3><span class="dorian">About Coronavirus</span></h3>
