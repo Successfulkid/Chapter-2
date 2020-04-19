@@ -55,18 +55,18 @@
     <th>Florida</th>
   </tr>
   <tr>
-    <td>Confirmed: 2,165,500</td>
-    <td>Confirmed: 676,676</td>
-    <td>Confirmed: 22,897</td>
+    <td>Confirmed: 2,343,293</td>
+    <td>Confirmed: 740,746</td>
+    <td>Confirmed: 25,492</td>
   </tr>
   <tr>
-    <td>Deaths: 145,705</td>
-    <td>Deaths: 34,784</td>
-    <td>Death: 633</td>
+    <td>Deaths: 161,330</td>
+    <td>Deaths: 39,158</td>
+    <td>Death: 748</td>
   </tr>
   <tr>
-    <td>Recovered: 550,453</td>
-    <td>Recovered: 56,127</td>
+    <td>Recovered: 602,793</td>
+    <td>Recovered: 66,676</td>
     <td>Recovered: - </td>
   </tr>
 </table>
