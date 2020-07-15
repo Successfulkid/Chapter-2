@@ -43,7 +43,7 @@
         <li><a href="#during-a-hurricane">How to protect yourself</a></li>
       </ul>
       <p>Hello everyone and thank you for joining my webpage. I know that it has been a while since I have put up my last webpage but here I am. Today we will be talking about the Coronavirus disease.</p>
-      <img src="https://d3nuqriibqh3vw.cloudfront.net/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg?iFJ36W0T_gU2dfelG0z_E2oaOm_7Gnmv" alt="A pic of Hurrican Dorian">
+      <img src="https://d3nuqriibqh3vw.cloudfront.net/c0481846-wuhan_novel_coronavirus_illustration-spl.jpg?iFJ36W0T_gU2dfelG0z_E2oaOm_7Gnmv" alt="A pic of corona Virus">
       <figure>
       <figcaption>Picture of the Coronavirus disease (COVID-19). </figcaption>
       </figure>    
