@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>Dandre Jackson</title>
+      </head>
+    <body>
+    <header>
+      <h1>Dandre Jackson</h1>
+      <h3> </h3>
+      <h3>Web Designing is FUN</h3>
+      <nav>
+      <ul>
+        <li><a href="#README.md">Home</a></li>
+        <li><a href="#edu.html">Education</a></li>
+        <li><a href="#work.html">Work</a></li>
+      </ul>
+      </nav>
+      </header>
+      <main>
+        <section id = "work">
+        <h3>My work experience</h3>
+        <ol>
+          <li>Work Eperince 1</li>
+        </ol>
+        </section>
+      </main>
+      </body>
+      </html>
