@@ -92,7 +92,7 @@
         <h2>Web programming is FUN</h2>
         <nav>
           <ul>
-            <li><a href="home.html">Home</a></li>
+            <li><a href="README.md">Home</a></li>
             <li><a href="edu.html">Eduation</a></li>
             <li><a href="work.html">Work</a></li>
           </ul>
