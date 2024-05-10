@@ -3,34 +3,86 @@
       <meta charset="utf-8">
       <title>COVID-19</title>
       <style>
-        .dorian{
-            color:rgb(0, 245, 245);
-            font-style:Josefin Sans;
-        }
-        figure{
-            text-align:center;
-        }
-         body{
-            background-color:rgb(39, 62, 102);
-        }
-         body{
-            font-family:Josefin Slabs;
-            font-weight:6;
-            font-size:19px;
-            color:rgb(0, 0, 0);
-        }
-        a:hover{
-             background-color:rgb(0, 245, 245);
-        }
-        a:active{
-             background-color:rgb(0, 245, 245);
-        }
-        a:focus{
-             background-color:rgb(0, 245, 245);
-        }
-        .table{
-             backgroung-color:rgb(39, 62, 102);
-        }
+        body{
+          background-color: lightgrey;
+          }
+        nav ul{
+          list-style-type: none;
+          padding: 0 .5em;
+          margin: auto;
+          }
+        nav ul li{
+          padding: 0;
+          margin: 3px 0 0;
+          border: 1px solid #111111;
+          background-color: #f0f0f0;
+          padding: 10px 1em;
+          text-align: center;
+          }
+        nav ul li a{
+          text-decoration: none;
+          font-size: 1.2em;
+          display: block;
+          }
+        body {margin: 0;}
+        div, footer, header, aside {position: relative; margin: .5em;}
+        section, aside, footer, header{ border: 1px solid #aaa; padding: 1.25em; border-radius: 5px;}
+        section {
+          margin-bottom: .5em
+          }
+        img{
+          float: left;
+          margin-right: 20px;
+          width: 100px;
+          }
+        header{
+          text-align: center;
+          }
+        header h2{
+          padding-top: 0;
+          }
+        footer p a img{
+          float: none;
+          vertical-align: middle;
+          }
+        footer{
+          text-align: center;
+          background-color: #c0c0c0;
+          }
+        aside h4{
+          font-size: 1.5em;
+          }
+        /* for wider screen*/
+        @media only screen and (min-width: 45em){
+          nav ul{
+            text-align: canter;
+            }
+          nav ul li{
+            display: inline-block;
+            text-align: center;
+            width: 20%;
+            }
+          div{
+            clear: left;
+            min-height: 430px;
+            }
+          body{position: relative; }
+          section {
+            margin-right: 22em; min-height: 135px;
+            }
+          main{
+            min-height: 28em;
+            }
+          aside#amazon{
+            position: absolute; top: 14.5em; right: 0; width: 18.75em;
+            }
+          aside#bn{
+            position: absolute; top: 26em; right: 0; width: 18.75em;
+            }
+          textarea{
+            width: 50%;
+            }
+          }
       </style>
       </head>
     <body>
