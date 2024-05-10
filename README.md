@@ -1,7 +1,7 @@
   <html>
     <head>
       <meta charset="utf-8">
-      <title>COVID-19</title>
+      <title>Dandre Jackson</title>
       <style>
         body{
           background-color: lightgrey;
